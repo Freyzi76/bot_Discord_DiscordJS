@@ -62,8 +62,6 @@ module.exports = class QueueCommand extends Command {
                 value += "`" + (i +1) +".`" + video.url + "\n";
             }
 
-            console.log(embed);
-
             embed.addField("A venir : ", value);
         }
 

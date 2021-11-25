@@ -37,6 +37,6 @@ client.on('error', console.error);
 
 
 
-client.login("OTEyNzM5NjY3MDQzMDI5MDMy.YZ0VDg.NcLOtrPm6QH9DyNTfCWgq02h3pk");
+client.login("OTEyNzM5NjY3MDQzMDI5MDMy.YZ0VDg.0v9Vz-v3NANQYPjAOtqQEXCm9tQ");
 
 //https://nodejs.org/download/release/v14.16.1/

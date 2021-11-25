@@ -10,8 +10,12 @@
   "license": "ISC",
   "dependencies": {
     "@discordjs/opus": "github:discordjs/opus",
+    "@muhimur/deezer-public-api": "^1.0.24",
     "discord.js": "^12.5.3",
     "discord.js-commando": "^0.12.3",
     "ytdl-core-discord": "^1.3.1"
+  },
+  "devDependencies": {
+    "@types/node": "^16.11.10"
   }
 }
