@@ -38,3 +38,5 @@ client.on('error', console.error);
 
 
 client.login("OTEyNzM5NjY3MDQzMDI5MDMy.YZ0VDg.NcLOtrPm6QH9DyNTfCWgq02h3pk");
+
+//https://nodejs.org/download/release/v14.16.1/
